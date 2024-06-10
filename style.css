@@ -1,0 +1,47 @@
+/* CSS for body tag */
+body{
+	/* Changes color of background from white to a cream color */
+	background-color: rgb(239, 225, 210);
+	/* Changes color of text from black to a dark brown */
+	color: rgb(77, 43, 26);
+	/* Changes font of all text in the body */
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* CSS for h1 tag */
+h1{
+	/* Changes title size to a bigger one */
+	font-size: xx-large;
+	/* Aligns title to center */
+	text-align: center;
+}
+
+/* CSS for h2 tag */
+h2{
+	/* Changes subtitle size to a bigger one */
+	font-size: x-large;
+}
+
+/* CSS for h3 tag */
+h3{
+	/* Changes subtitle size to a sligtly bigger one */
+	font-size: larger;
+}
+
+/* CSS for p tag */
+p{
+	/* Changes paragraph distribution */
+	text-align: justify;
+	/* Changes spacing in between lines */
+	line-height: 30px;
+	/* Changes margins */
+	margin: 20px 10px 15px 5px;
+	/* Adds indent to start of each paragraph */
+	text-indent: 30px;
+}
+
+/* CSS for a tag */
+a:visited{
+	/* Changes color of link when pressed */
+	color: rgb(77, 43, 26);
+}
